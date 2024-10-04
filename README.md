@@ -1,5 +1,5 @@
 <h2 align="center">Hello, World ! 🌍</h2>
-<p align="start">I am <strong>Mandrindra Niaina</strong>, a <span style="color: #0000ff;">Java</span> developer ☕️</p>
+I am **Mandrindra Niaina**, a <span style="color: #0000ff;">Java</span> developer ☕️
 
 - Reach me at **iammandrindraniaina34@gmail.com**
 
