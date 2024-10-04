@@ -12,4 +12,5 @@ I am **Mandrindra Niaina**, a **Java** developer ☕️
 <a href="https://instagram.com/iamniaina34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamniaina34" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Reach me at</h4> **iammandrindraniaina34@gmail.com**
+<h4 align="left">Reach me at</h4>
+**iammandrindraniaina34@gmail.com**
