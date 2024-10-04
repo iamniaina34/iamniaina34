@@ -1,7 +1,7 @@
 <h1 align="center">I'm Mandrindra Niaina</h1>
 <h3 align="center">A Java developer ☕️</h3>
 
-- You can reach me at **iammandrindraniaina34@gmail.com**
+- Reach me at **iammandrindraniaina34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
