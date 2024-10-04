@@ -1,5 +1,5 @@
 <h2 align="center">Hello, World ! 🌍</h2>
-I am **Mandrindra Niaina**, a **Java** developer ☕️
+<p>I am **Mandrindra Niaina**, a **Java** developer</p> ☕️
 
 - Reach me at **iammandrindraniaina34@gmail.com**
 
