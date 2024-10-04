@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World !</h1>
+<h2 align="center">Hello, World !</h2>
 <h6 align="start">I am Mandrindra Niaina, a Java developer ☕️</h6>
 
 - Reach me at **iammandrindraniaina34@gmail.com**
