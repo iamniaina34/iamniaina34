@@ -1,5 +1,5 @@
-<h1 align="center">I'm Mandrindra Niaina</h1>
-<h3 align="center">A Java developer ☕️</h3>
+<h1 align="center">Hello, World !</h1>
+<h3 align="start">I am Mandrindra Niaina, a Java developer ☕️</h3>
 
 - Reach me at **iammandrindraniaina34@gmail.com**
 
