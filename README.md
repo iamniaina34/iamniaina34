@@ -8,7 +8,7 @@ I am **Mandrindra Niaina**, a **Java** developer ☕️
 <h4 align="left">Let's vibe together on</h4>
 <p align="left">
 <a href="https://twitter.com/iamniaina34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamniaina34" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mandrindra-niaina"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandrindra niaina-13748930a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mandrindra-niaina-13748930a"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandrindra niaina" height="30" width="40" /></a>
 <a href="https://instagram.com/iamniaina34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamniaina34" height="30" width="40" /></a>
 </p>
 
