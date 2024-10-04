@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World ! 🌍</h1>
 
-I am **Mandrindra Niaina**
+I am **Mandrindra Niaina** </br>
 A **Java** developer ☕️
 
 <h4 align="left">Languages and Tools:</h4>
