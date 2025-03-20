@@ -1,5 +1,3 @@
-## It's a not me, Mario!
-
 I am **Mandrindra Niaina**, **j**ust **a**n a**v**er**a**ge developer ☕️
 
 <h4 align="left">Languages and Tools:</h4>
