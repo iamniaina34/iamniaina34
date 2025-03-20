@@ -1,4 +1,4 @@
-<h2 align="center">*It's not me, Mario*</h2>
+## It's a not me, Mario!
 
 I am **Mandrindra Niaina**, **j**ust **a**n a**v**er**a**ge developer ☕️
 
